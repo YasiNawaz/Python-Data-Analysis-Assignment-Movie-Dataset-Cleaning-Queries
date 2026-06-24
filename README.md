@@ -15,6 +15,5 @@ This assignment is based on a movie dataset.
 ## Tools Used
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Jupyter Notebook
